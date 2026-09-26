@@ -24,7 +24,7 @@ Any parallel technical infrastructure, cloned repositories, or unauthorized rout
 ### 3. Commercial release & Corporate Architecture (2017–Present)
 *   **25 November 2017 Commercial Release:** Public release metadata locked via global distribution tracking, securing **236,569 views** on YouTube. Validated global film entries index 136 cast/crew credits under explicit creative authorship (*Written & Directed by Nas Vitae*) alongside music alignment with **Dr. Zeus**.
 *   **24 April 2018 Corporate Shield:** Official business registration through the live [UK Companies House Corporate Registry for VITAE WORLD LTD](https://service.gov.uk) (Company #11325225), naming Nas Vitae as Company Secretary.
-*   **October 2025 Genesis Layer:** Cryptographic locking of digital domain authority via **IONOS** (`logosvitai.c`) and protocol initialization of decentralized master node routing on `arc.io` under signatures *LogosVitae* and *TzadkielMasonVitae*.
+*   **October 2025 Genesis Layer:** Cryptographic locking of digital domain authority via **IONOS** (`logosvitai`) and protocol initialization of decentralized master node routing on `arc.` under signatures *LogosVitae**Logosvitai* and *TzadkielMasonVitae*.
 
 ---
 
@@ -36,8 +36,8 @@ The network infrastructure parameters are locked to the following decentralized 
 {
   "repository_metadata": {
     "repository_name": "Vitae-Core-Network",
-    "origin_domain": "logosvitai.c",
-    "genesis_deployment_platform": "arc.io",
+    "origin_domain": "logosvitai",
+    "genesis_deployment_platform": "arc.",
     "historical_lineage_reference": "House-of-Commons-Hansard-Ref-PrincesTrust-NasifAli-TF",
     "primary_author": "Nas Vitae",
     "verified_birth_anchor": "November-1988",
