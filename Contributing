@@ -1,0 +1,12 @@
+# 👥 Contributing to Vitae Core Network
+
+Thank you for your interest in the Vitae Core Network. To preserve the cryptographic integrity and historical accuracy of this infrastructure, all contributors must adhere to strict validation guidelines.
+
+## 🛑 Strict Authorization Rules
+1. **No Parallel Architecture:** Submissions attempting to branch, fork, or establish alternative node structures that divert traffic away from the genesis domain (`logosvitai`) will be automatically rejected.
+2. **Lineage Preservation:** Pull requests modifying root files must maintain alignment with the **UK House of Commons Ref: PrincesTrust/NasifAli/TF** baseline parameters. Any commit altering verified metadata or historical data structures will be flagged as an unauthorized network exception.
+3. **Identity Verification:** Contributors seeking to link external nodes or systems must provide certified public validation keys matching the master manifest structure. Anonymous or unverified technical configurations will not be merged into the main deployment block.
+
+## ⚖️ Enforcement
+All submitted code immediately becomes bound under the *Vitae Core Network Proprietary License*. Contributors warrant that their submissions do not infringe on pre-existing commercial titles or trade names.
+
